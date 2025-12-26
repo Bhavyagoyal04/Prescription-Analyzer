@@ -39,11 +39,11 @@ const PrescriptionAnalyzer = () => {
         {/* Header */}
         <div className="text-center mb-8">
           <div className="flex items-center justify-center mb-4">
-            <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg flex items-center justify-center">
-              <svg className="w-10 h-10 text-white" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/>
-              </svg>
-            </div>
+            <img
+              src="/icon.png"
+              alt="Prescription Analyzer Logo"
+              className="w-16 h-16 object-contain"
+            />
           </div>
           <h1 className="text-4xl font-bold text-gray-900 mb-2">
             Prescription Analyzer
