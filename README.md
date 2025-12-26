@@ -2,10 +2,6 @@
 
 A React-based web application that uses AI to analyze medical prescriptions and find alternative medications.
 
-![React](https://img.shields.io/badge/React-18.2.0-blue)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-38bdf8)
-![Vite](https://img.shields.io/badge/Vite-4.x-646cff)
-
 ## Features
 
 - **Upload Prescription Images** - Support for JPG, PNG, JPEG, WebP,
