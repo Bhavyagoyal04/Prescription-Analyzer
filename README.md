@@ -76,7 +76,6 @@ prescription-analyzer/
 ## Built With
 
 - **React** - Frontend framework
-- **Vite** - Build tool
 - **Tailwind CSS** - Styling
 - **Lucide React** - Icons
 - **Gemini AI** - AI analysis
